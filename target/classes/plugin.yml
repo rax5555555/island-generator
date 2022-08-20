@@ -1,0 +1,6 @@
+name: island_generator
+version: 1.0.0
+api-version: 1.17
+load: STARTUP
+main: ru.rax.Main
+commands:
